@@ -1,7 +1,8 @@
 <html>
 <?php
-  session_start();
+session_start();
 ?>
+
 <head>
   <meta charset="utf-8" />
   <title>App Help Desk</title>
